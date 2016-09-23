@@ -1,0 +1,17 @@
+/node_modules
+npm-debug.log
+
+# type script artifacts
+/typings
+
+# ignore inline compiling
+/demo/**/*.js
+/demo/**/*.js.map
+/demo/**/*.d.ts
+/srv/**/*.js
+/srv/**/*.js.map
+/srv/**/*.d.ts
+index.js
+index.d.ts
+index.js.map
+/logs

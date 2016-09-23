@@ -1,0 +1,1 @@
+export { CompanyIdChecherModule } from './src/company-identificator-checker.module';
