@@ -7,7 +7,7 @@
     "postinstall": "typings install",
     "typings": "typings",
 
-    "build": "rmdir \"lib\" /S /Q && tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
