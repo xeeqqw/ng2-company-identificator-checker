@@ -8,9 +8,9 @@ npm-debug.log
 /demo/**/*.js
 /demo/**/*.js.map
 /demo/**/*.d.ts
-/srv/**/*.js
-/srv/**/*.js.map
-/srv/**/*.d.ts
+/srс/**/*.js
+/srс/**/*.js.map
+/srс/**/*.d.ts
 index.js
 index.d.ts
 index.js.map
