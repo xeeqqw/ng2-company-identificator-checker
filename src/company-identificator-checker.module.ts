@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-
+import { CommonModule } from '@angular/common';
 import { INNValidator } from './directives/inn-validator';
 import { OGRNValidator } from './directives/ogrn-validator';
 
@@ -10,7 +9,7 @@ let directives = [
 ]
 
 @NgModule({
-    imports: [BrowserModule],
+    imports: [CommonModule],
     declarations: [
         ...directives
     ],
