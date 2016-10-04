@@ -11,7 +11,7 @@ export class INNValidator implements Validator {
         if (!control.value)
             return null;
 
-        let innArray: number[] = (""+control.value).split("").map(Number);
+        let innArray: number[] = control.value.toString().split("").map(Number);
 
         let result: boolean = false;
 
