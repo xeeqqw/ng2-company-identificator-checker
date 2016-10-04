@@ -1,10 +1,6 @@
 {
   "name": "ng2-company-identificator-checker",
-<<<<<<< HEAD
-  "version": "0.0.3",
-=======
   "version": "0.0.4",
->>>>>>> 1c632daf2b6068bed0cb7d87bacc0134865b1d25
   "description": "",
   "main": "index.js",
   "scripts": {
